@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: IIT Mandi
-// Engineer: Akash kumar
+// Engineer: Gaurav kumar
 // 
 // Create Date: 26.07.2022 05:15:46
 // Design Name: RTL
